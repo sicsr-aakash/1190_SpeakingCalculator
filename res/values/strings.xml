@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Speaking Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ans">Your Answer is..</string>
+    <string name="answer"> Touch and Speak..</string>
+    <string name="temp1">Celsius to fahrenheit</string>
+    <string name="temp2">Celsius to Kelvin</string>
+    <string name="speak"></string>
+    <string name="instruct"></string>
+    <string name="input"></string>
+    <!-- for action bar -->
+    <string name="about_us">About Us</string>
+    <string name="instruction">Instructions</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_temperature">Celsius To Fahrenheit</string>
+    <string name="title_activity_about_us">About Us</string>
+    <string name="title_activity_instruction">Instructions</string>
+    <string name="title_activity_celsius_to_kelvin">Celsius To Kelvin</string>
+    <string name="title_activity_fahrenheit_to_celsius">Fahrenheit To Celsius</string>
+    <string name="title_activity_fahrenheit_to_kelvin">Fahrenheit To Kelvin</string>
+    <string name="title_activity_fah_to_celsius">Fahrenheit To Celsius</string>
+    <string name="title_activity_cel_to_frahrenheit">Celsius To Frahrenheit</string>
+    <string name="title_activity_kelvin_to_frah">Kelvin To Fahrenheit</string>
+    <string name="title_activity_kelvin_to_celsius">Kelvin To Celsius</string>
+    <string name="title_activity_rsto_dollar">RstoDollar</string>
+    <string name="title_activity_dollarto_rs">DollartoRs</string>
+    <string name="title_activity_meterto_cm">Meter To Centimeter</string>
+    <string name="title_activity_kel_to_celsius">Kelvin To Celsius</string>
+    <string name="title_activity_kel_to_fah">Kelvin To Fahrenheit</string>
+    <string name="title_activity_centi_to_metre">Centimeter To Meter</string>
+    <string name="title_activity_centi_to_kilo">Centimeter To Kilometer</string>
+    <string name="title_activity_meter_to_kilo">Meter To Kilometer</string>
+    <string name="title_activity_meter_to_centi">Meter To Centimeter</string>
+    <string name="title_activity_kilo_to_centi">Kilometer To Centimeter</string>
+    <string name="title_activity_kilo_to_meter">Kilometer To Meter</string>
+    
+
+</resources>

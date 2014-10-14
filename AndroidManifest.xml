@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.speaking_calculator"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.speaking_calculator.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.Temperature"
+            android:label="@string/title_activity_temperature" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.AboutUs"
+            android:label="@string/title_activity_about_us" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.Instruction"
+            android:label="@string/title_activity_instruction" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.CelsiusToKelvin"
+            android:label="@string/title_activity_celsius_to_kelvin" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.FahrenheitToCelsius"
+            android:label="@string/title_activity_fahrenheit_to_celsius" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.FahrenheitToKelvin"
+            android:label="@string/title_activity_fahrenheit_to_kelvin" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.FahToCelsius"
+            android:label="@string/title_activity_fah_to_celsius" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.CelToFrahrenheit"
+            android:label="@string/title_activity_cel_to_frahrenheit" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.KelvinToFrah"
+            android:label="@string/title_activity_kelvin_to_frah" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.KelvinToCelsius"
+            android:label="@string/title_activity_kelvin_to_celsius" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.RstoDollar"
+            android:label="@string/title_activity_rsto_dollar" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.DollartoRs"
+            android:label="@string/title_activity_dollarto_rs" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.MetertoCm"
+            android:label="@string/title_activity_meterto_cm" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.KelToCelsius"
+            android:label="@string/title_activity_kel_to_celsius" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.KelToFah"
+            android:label="@string/title_activity_kel_to_fah" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.CentiToMetre"
+            android:label="@string/title_activity_centi_to_metre" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.CentiToKilo"
+            android:label="@string/title_activity_centi_to_kilo" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.MeterToKilo"
+            android:label="@string/title_activity_meter_to_kilo" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.MeterToCenti"
+            android:label="@string/title_activity_meter_to_centi" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.KiloToCenti"
+            android:label="@string/title_activity_kilo_to_centi" >
+        </activity>
+        <activity
+            android:name="com.example.speaking_calculator.KiloToMeter"
+            android:label="@string/title_activity_kilo_to_meter" >
+        </activity>
+    </application>
+
+</manifest>

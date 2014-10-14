@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/about_us"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/about_us"/>
+     <item
+        android:id="@+id/instruction"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/instruction"/>
+      <item
+        android:id="@+id/exit"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/exit"/>
+</menu>
