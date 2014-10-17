@@ -1,7 +1,7 @@
 1190_SpeakingCalculator
 =======================
 
-Name : SICSR Moodle Attendance App
+Name : Speaking Calculator
 
 College / Institute Name : Symbiosis Institute of Computer Studies and Research
 
